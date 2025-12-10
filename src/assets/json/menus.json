@@ -1,0 +1,27 @@
+[
+  {
+    "path": "/library",
+    "icon": "local_library",
+    "name": "资料库"
+  },
+  {
+    "path": "/recent",
+    "icon": "history",
+    "name": "最近"
+  },
+  {
+    "path": "/search",
+    "icon": "manage_search",
+    "name": "搜索"
+  },
+  {
+    "path": "/navigation",
+    "icon": "navigation",
+    "name": "导航"
+  },
+  {
+    "path": "/favorite",
+    "icon": "star",
+    "name": "收藏"
+  }
+]

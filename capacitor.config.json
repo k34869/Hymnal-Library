@@ -1,0 +1,14 @@
+{
+  "appId": "com.k34869.hymnal.library",
+  "appName": "诗歌库",
+  "version": "1.0.1",
+  "webDir": "dist",
+  "server": {
+    "cleartext": true
+  },
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}

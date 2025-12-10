@@ -1,0 +1,42 @@
+{
+  "name": "hymnal-library",
+  "private": true,
+  "version": "1.0.1",
+  "type": "module",
+  "scripts": {
+    "serve": "vite --host 0.0.0.0",
+    "sync": "cap sync",
+    "start": "cap run",
+    "start:android": "cap run android",
+    "start:ios": "cap run ios",
+    "build": "cap build",
+    "build:web": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@capacitor-community/keep-awake": "^7.1.0",
+    "@capacitor-community/safe-area": "7.0.0-alpha.1",
+    "@capacitor/android": "^7.4.3",
+    "@capacitor/app": "^7.1.0",
+    "@capacitor/core": "^7.4.3",
+    "@capacitor/share": "^7.0.2",
+    "flexsearch": "^0.8.212",
+    "marked": "^16.4.1",
+    "mdui": "^2.1.4",
+    "pinia": "^3.0.3",
+    "pinia-plugin-persistedstate": "^4.5.0",
+    "vue": "^3.5.12",
+    "vue-router": "^4.5.1"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^3.0.5",
+    "@capacitor/cli": "^7.4.3",
+    "@vitejs/plugin-vue": "^6.0.1",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "postcss-nesting": "^13.0.2",
+    "vite": "^7.1.2",
+    "vite-plugin-windicss": "^1.8.7",
+    "windicss": "^3.5.6"
+  }
+}
