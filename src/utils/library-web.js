@@ -3,7 +3,7 @@ import { snackbar } from "mdui/functions/snackbar.js";
 
 export async function getFile(path) {
   const promise = CapacitorHttp.post({
-    url: `/api/fs/get`,
+    url: `https://na8pp3fe.cn-nb1.rainapp.top/api/fs/get`,
     headers: {
       accept: "application/json, text/plain, */*",
       "content-type": "application/json",

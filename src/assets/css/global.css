@@ -143,11 +143,6 @@ mdui-dialog p > span.mark {
   -webkit-text-stroke: 0.02em currentColor;
 }
 
-a {
-  text-decoration: none;
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-}
-
 a,
 a:link,
 a:visited,

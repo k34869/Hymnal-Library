@@ -148,8 +148,8 @@ const deleteAction = (name, index) => {
 }
 
 const share = (options = {}) => {
-  const { name, path } = options
-  const pathString = getPath(path, name)
+  const name = filterMark(options.name)
+  const pathString = getPath(options.path, name)
   Share.share({
     title: name,
     text: name,

@@ -148,5 +148,10 @@ const showAboutDialog = () => {
       font-size: 20px;
     }
   }
+
+  a {
+    text-decoration: none;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  }
 }
 </style>

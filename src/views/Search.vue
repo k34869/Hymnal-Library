@@ -31,16 +31,24 @@ import { useRouter } from 'vue-router';
 import { useSearch, database } from '~/hooks/useSearch';
 import { uniqueRandoms } from '~/utils/utils';
 import { useSaveScrollPosition } from '~/hooks/useSaveScrollPosition';
+import { useRecent } from '~/stores/recent';
 import { currentOpen } from '~/stores/currentOpen';
 
 const router = useRouter()
 const { search, isInit, updateDatabase, fristInitPromise } = useSearch()
+const recentStore = useRecent()
 let randomRec = ref([])
 fristInitPromise.then((data) => {
   randomRec.value = uniqueRandoms(0, data.length, 15)
 })
 
 const openMarkdown = (item) => {
+  recentStore.add({
+    path: item.path,
+    type: item.type,
+    name: item.name,
+    description: item.description
+  })
   currentOpen.data = {
     path: item.path,
     name: item.name,
