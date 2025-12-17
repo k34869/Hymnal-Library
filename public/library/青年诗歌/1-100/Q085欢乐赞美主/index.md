@@ -1,0 +1,40 @@
+第一节谱词领唱
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+mp3
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-4.jpg](./image-4.jpg)
+
+![image-5.jpg](./image-5.jpg)
+
+### 欢乐赞美主
+
+### 一、
+
+### 主耶稣我心献上赞美你是神的儿子，
+
+### 感谢你为了要拯救我们你竟然成为人，
+
+### 经历了人生被钉十字架你又复活升天，
+
+### 今成了那灵供应我生命享受你的丰盛。
+
+### 主耶稣我今得以认识神奥秘的经纶，
+
+### 创世之前预定拣选我们承受你做永分，
+
+### 有你的生命有你的性情做你团体新人，
+
+### 神与人调和相互为居所成新耶路撒冷。
+
+### 二、
+
+### 来赞美主耶稣，要欢呼向着神，
+
+### 因神自己成了我这个人，
+
+### 使我成为祂荣耀彰显。
+

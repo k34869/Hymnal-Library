@@ -1,0 +1,17 @@
+{
+  "type": "map-folder",
+  "list": [
+    {
+      "name": "1-100",
+      "description": "100 项"
+    },
+    {
+      "name": "101-200",
+      "description": "103 项"
+    },
+    {
+      "name": "201-271",
+      "description": "73 项"
+    }
+  ]
+}

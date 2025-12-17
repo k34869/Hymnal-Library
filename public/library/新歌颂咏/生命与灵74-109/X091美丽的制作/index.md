@@ -1,0 +1,19 @@
+第一节谱词领唱
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+mp3
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-4.jpg](./image-4.jpg)
+
+![image-5.jpg](./image-5.jpg)
+
+### 一
+### 主，但愿我能赞美得好，不负你以灵为线绣我义袍；主，但愿我能经历得深，耐住熔炉冶炼去芜存珍。
+### 主，愿你将我变化完全，成为你新妇，没有皱纹、斑点，主，你是我们所盼将来，但愿众圣美丽吸引你快回来。
+### 二
+### 主，但愿我能看得清楚，苦难的礼物实是你的祝福；主，但愿我有这般智慧，好比蚌粒以生命包裹污秽。
+### 主，愿你将我变化完全，成为你新妇，没有皱纹、斑点，主，你是我们所盼将来，但愿众圣美丽吸引你快回来。
+

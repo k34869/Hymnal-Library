@@ -1,0 +1,15 @@
+<audio src="./audio-0.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-2.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-3.jpg](./image-3.jpg)
+
+### 一
+### 自从“过召会”，生活何美丽，预尝那日；新耶路撒冷，新耶路撒冷，安息的满足。
+### 二
+### 今日的召会就是那美地─流奶与蜜。尽情的享受，尽情的享受，丰盛的生命。
+### 三
+### 建造的召会就是神居所，让祂安息；为祂掌王权，为祂掌王权，完成神旨意。
+

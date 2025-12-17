@@ -1,0 +1,30 @@
+第一节谱词领唱
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+mp3
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-4.jpg](./image-4.jpg)
+
+![image-5.jpg](./image-5.jpg)
+
+### 祭坛和帐棚的生活
+
+### 荣耀的基督这超越的宝贝，吸引我们打破玉瓶，
+
+### 并将一切全然枉费在祂身上，枉费在祂身上；
+
+### 燔祭坛上的火要一直烧着，不可熄灭，
+
+### 好使我们消减成灰，而成为新耶路撒冷。
+
+### 我们在帐篷里过团体神人生活，并接受国度的操练，
+
+### 好对世界作相反的见证；为着时期满足时的经纶，
+
+### 我们需要打开家并栽种召会树，好成为万邦的祝福。
+
+### 我们需要打开家并栽种召会树，好成为万邦的祝福。
+

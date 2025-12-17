@@ -1,7 +1,7 @@
 {
   "name": "hymnal-library",
   "private": true,
-  "version": "1.0.1",
+  "version": "1.1.0",
   "type": "module",
   "scripts": {
     "serve": "vite --host 0.0.0.0",
@@ -19,7 +19,7 @@
     "@capacitor/android": "^7.4.3",
     "@capacitor/app": "^7.1.0",
     "@capacitor/core": "^7.4.3",
-    "@capacitor/share": "^7.0.2",
+    "@capacitor/share": "^8.0.0",
     "flexsearch": "^0.8.212",
     "marked": "^16.4.1",
     "mdui": "^2.1.4",

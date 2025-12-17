@@ -1,0 +1,49 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节清唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-9.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-10.jpg](./image-10.jpg)
+
+![image-11.jpg](./image-11.jpg)
+
+![image-12.jpg](./image-12.jpg)
+
+![image-13.jpg](./image-13.jpg)
+
+![image-14.jpg](./image-14.jpg)
+
+### 一
+### 阿，神中心的观念，乃是与人相结联，祂来作人的一切，使祂计划得成全。
+### 二
+### 人是被造的瓦器，有灵、有魂也有体；人可取神作生命，藉此与神成为一。
+### 三
+### 藉着生命的流通，人变宝石为神用；适合为神造居所，让神彰显祂光荣。
+### 四
+### 这是圣城神所建，这是居所神所羡；这是新耶路撒冷，完满成全神心愿。
+### 五
+### 这是众圣的建造，这是神、人的相调；原是父神所筹画，满足神、人的需要。
+### 六
+### 神和羔羊的宝座，在这荣耀的居所；从这掌权的中心，流出圣灵生命河。
+### 七
+### 基督乃是生命树，长在河的两岸处；结出神圣生命果，供应众圣作食物。
+### 八
+### 神在基督里作光，透过全城来照亮；死亡之夜全驱尽，神圣之光照辉煌。
+### 九
+### 神在人里，人在神，互为居所来藏身；人的内容乃是神，神的表现乃是人。
+

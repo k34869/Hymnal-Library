@@ -1,0 +1,56 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节清唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-9.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-10.jpg](./image-10.jpg)
+
+![image-11.jpg](./image-11.jpg)
+
+![image-12.jpg](./image-12.jpg)
+
+![image-13.jpg](./image-13.jpg)
+
+![image-14.jpg](./image-14.jpg)
+
+![image-15.jpg](./image-15.jpg)
+
+![image-16.jpg](./image-16.jpg)
+
+一
+主，你知道所有干渴，在这不足寻求心；我心羡慕何等深刻，惟你能使不饥馑。
+今寻求，今寻求，赐你圣灵的富有。
+二
+行为失败，见证失败，工作失败已明显，无果之劳、非主之态，对你没有赞美献。
+今寻求，今寻求，赐你圣灵的富有。
+三
+我今向你承认我的所有失败和邪恶，所有自满，所有刚愎，所有心里的隐慝。
+今寻求，今寻求，赐你圣灵的富有。
+四
+父阿，救我脱离自己，脱离化装的骄傲；带我与主同到死地，知道同钉的奇道。
+今寻求，今寻求，赐你圣灵的富有。
+五
+从今不再是我工作，我想，我爱，或我说；惟独乃是基督生活，时时刻刻通过我。
+今寻求，今寻求，赐你圣灵的富有。
+六
+但愿你的满有圣灵，流通在我的衷表，好叫对人我是证明，对你乃是归荣耀。
+今寻求，今寻求，赐你圣灵的富有。
+七
+父阿，我奉子名祷告，我信祷告已答应，我今赞美答应可靠，安息只因话足凭。
+就赞美，就赞美，因你已听我祷告。第三节的“隐慝，”意思是隐藏的恶念。
+

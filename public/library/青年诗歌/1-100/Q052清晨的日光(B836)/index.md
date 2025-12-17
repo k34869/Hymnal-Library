@@ -1,0 +1,18 @@
+第一节谱词领唱
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+mp3
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-4.jpg](./image-4.jpg)
+
+![image-5.jpg](./image-5.jpg)
+
+### 清晨的日光
+
+### 一、虽经漫漫长夜，晚星也都已消灭，神却未曾忘记祂所定的永约；当我们正徘徊在死阴之地离不开，有一清晨的日光从天而来。是神怜悯的心肠，眷顾罪人的忧伤，把我们的脚引到平安路上，所有黑暗尽驱走，我神我主施拯救，使我们的黑夜变为白昼！
+
+### 二、你来寻找失丧 者，你肯赦免犯罪的，你使卑贱无望人得亨天上乐；从你活出神自己，在神拯救恩典里，你给万民带来大喜的信息。你是神人的调和，你是人中的圣者，我们从你看见人性的美德；如此救主我爱戴，向你全心献敬拜，赞美你，今住我卑微胸怀！
+

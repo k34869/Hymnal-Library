@@ -1,0 +1,45 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节清唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-9.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-10.jpg](./image-10.jpg)
+
+![image-11.jpg](./image-11.jpg)
+
+![image-12.jpg](./image-12.jpg)
+
+![image-13.jpg](./image-13.jpg)
+
+## 一
+## 你是至高、荣耀的神，竟肯降卑成为肉身，作了一个式微的人，主阿，我记念你！
+## 二
+## 你将一切神性荣耀，全用肉身幔子遮罩，显于外者不过枯槁，主阿，我记念你！
+## 三
+## 你乃像根出于干地，多受痛苦，常经忧悒，被人藐视，受人厌弃，主阿，我记念你！
+## 四
+## 你的心里谦卑、温柔，任何遭遇都肯接受，对神、对人从无怨尤，主阿，我记念你！
+## 五
+## 你的为人甜美、柔细、各方均平、不偏不倚，在神眼中犹如素祭，主阿，我记念你！
+## 六
+## 神的旨意你所顾念，从未接受撒但欺骗，无人像你忠诚、完全，主阿，我记念你！
+## 七
+## 为着顺服神的旨意，你竟甘愿走到死地，且在十架舍了自己，主阿，我记念你！
+## 八
+## 父神因此将你升高，使你得着尊贵、荣耀，天地一切无不拜朝，主阿，我敬拜你！
+

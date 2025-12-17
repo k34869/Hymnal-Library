@@ -1,0 +1,36 @@
+<audio src="./audio-0.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-2.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-3.jpg](./image-3.jpg)
+
+![image-4.jpg](./image-4.jpg)
+
+![image-5.jpg](./image-5.jpg)
+
+![image-6.jpg](./image-6.jpg)
+
+![image-7.jpg](./image-7.jpg)
+
+![image-8.jpg](./image-8.jpg)
+
+![image-9.jpg](./image-9.jpg)
+
+### 一_
+### 哦主，将我帕子去除，赐下真实启示；哦，主，使我异象清楚，知你恢复所是。哦，主，使我异象清楚，知你恢复所是；哦，主，使我异象清楚，知你恢复所是。
+### 二
+### 你从死里复活能力，我藉启示知悉；大能传输藉信经历，引我到召会里。
+### 三
+### 你的大能将我释放，脱离烦扰俗务；你的大能为我开广进入召会路途。
+### 四
+### 我今进入地方召会，愿以你为人位；外面旧人日渐销毁，心向你能绝对。
+### 五
+### 我接受你作人位，主，与你同钉十架；里面之人得着恢复，你在我心安家。
+### 六
+### 当众肢体都愿舍己，荣耀身体得显；人数虽多，人位同一，新人在地出现。
+### 七
+### 召会生活─一个新人─显于各地召会；你的身体是团体人，显出一个人位。
+### 注：每节均重复第二行歌辞二次。
+

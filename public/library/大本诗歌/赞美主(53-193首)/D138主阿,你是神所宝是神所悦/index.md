@@ -1,0 +1,62 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节清唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-9.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-10.jpg](./image-10.jpg)
+
+![image-11.jpg](./image-11.jpg)
+
+![image-12.jpg](./image-12.jpg)
+
+![image-13.jpg](./image-13.jpg)
+
+![image-14.jpg](./image-14.jpg)
+
+![image-15.jpg](./image-15.jpg)
+
+![image-16.jpg](./image-16.jpg)
+
+![image-17.jpg](./image-17.jpg)
+
+## 一
+## 主阿，你是神所宝，是神所悦、所选！神用乐油将你膏，胜过膏你同伴。
+## 我们心中在珍赏，珍赏你的美善，珍赏你是何馨香，珍赏你的甘甜。
+## 二
+## 你比世人更秀美，你是全然可爱；你的口中有恩惠，我们满心爱戴。
+## 我们心中在珍赏，珍赏你的美善，珍赏你是何馨香，珍赏你的甘甜。
+## 三
+## 你生，博士来献宝，自始人就爱戴；你死，贵人裹香料，至终仍然可爱。
+## 我们心中在珍赏，珍赏你的美善，珍赏你是何馨香，珍赏你的甘甜。
+## 四
+## 你头曾为膏所浇，人所最为爱戴；你脚也为人所膏，你是处处可爱。
+## 我们心中在珍赏，珍赏你的美善，珍赏你是何馨香，珍赏你的甘甜。
+## 五
+## 你的受死如没药，安慰人的心灵；你的复活似香料，满足神的心情。
+## 我们心中在珍赏，珍赏你的美善，珍赏你是何馨香，珍赏你的甘甜。
+## 六
+## 在我你香似没药，你美犹如凤仙，还像柑树盛而茂，果实丰美、香甜。
+## 我们心中在珍赏，珍赏你的美善，珍赏你是何馨香，珍赏你的甘甜。
+## 七
+## 美酒不如你爱美，你名却似膏香！我们以你为宝贵，怎能忘而不想？
+## 我们心中在珍赏，珍赏你的美善，珍赏你是何馨香，珍赏你的甘甜。
+## 八
+## 我们非仅在默想，默想你的美善；我们更是在饱尝，饱尝你的甘甜！
+## 我们心中在珍赏，珍赏你的美善，珍赏你是何馨香，珍赏你的甘甜。
+## 第六节的“柑树”是雅歌二章三节“苹果树”的另一译法。
+

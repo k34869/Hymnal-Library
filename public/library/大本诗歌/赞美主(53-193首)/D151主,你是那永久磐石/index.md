@@ -1,0 +1,43 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节清唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-9.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-10.jpg](./image-10.jpg)
+
+![image-11.jpg](./image-11.jpg)
+
+![image-12.jpg](./image-12.jpg)
+
+![image-13.jpg](./image-13.jpg)
+
+![image-14.jpg](./image-14.jpg)
+
+## 一
+## 主，你是那永久磐石，属灵磐石为我裂；灵中饮于你流活水，就得与你永联结。你是磐石，永远稳固，我在其上被建造；藉着救赎，与你联合，无何能将我动摇。
+## 我们珍贵你的价值，你之所是全为我；我们在此因爱记念，满享你富的广阔。
+## 二
+## 你是石头，多人试过，神所宝贵，我所爱；极其稳固、极其可靠，你的力量永不衰。你也是那永生活石，神所拣选，归我们；何其坚强、何其有力，无穷生命是我分。
+## 我们珍贵你的价值，你之所是全为我；我们在此因爱记念，满享你富的广阔。
+## 三
+## 你又是那神圣基石，神所安放，稳而坚；藉着你这稳固根基，我们永远享安全。对于我们，在你之外，无人能立别根基；你是我们惟一基础，直到永远不更移。
+## 我们珍贵你的价值，你之所是全为我；我们在此因爱记念，满享你富的广阔。
+## 四
+## 为着神的属灵建造，你是房角的首石；犹太、外邦，成为一体，建造全靠你所是。主，你也是那块顶石，无限恩典所搬出；你是我们遮盖、荣耀，我们心中满歌赋。
+## 我们珍贵你的价值，你之所是全为我；我们在此因爱记念，满享你富的广阔。
+

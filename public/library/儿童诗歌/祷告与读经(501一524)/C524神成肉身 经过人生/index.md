@@ -1,0 +1,12 @@
+<audio src="./audio-0.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节教唱
+
+<audio src="./audio-2.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-3.jpg](./image-3.jpg)
+
+## 神成肉身，经过人生，受死，复活，化身成灵，进到人里面，作人的生命，神分赐给人，叫人得变化。产生召会，基督的身体，神家，神国，基督的配偶，最终集大成，新耶路撒冷，神与人调和，完满的彰显。
+
+
+

@@ -1,0 +1,23 @@
+第一节谱词领唱
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+mp3
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-4.jpg](./image-4.jpg)
+
+![image-5.jpg](./image-5.jpg)
+
+### 如鹰展翅上腾
+### 神已听见我的呼求，我也明白祂的渴望，
+### 我愿放下重担脱去缠累，求祂恢复起初造我形象。
+### 永在的神，创造万物的主，他的智慧无法测度。
+### 疲乏的，祂赐能力，软弱的，祂加力量，
+### 等候耶和华必重新得力，
+### 如鹰展翅上腾，翱翔在神的国度里！
+### 超越所有属地和艰难，单单注视神荣耀宝座，
+### 如鹰展翅上腾，翱翔在神的国度里！
+### 渐渐变化成基督形象，活出彰显基督的人生！
+

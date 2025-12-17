@@ -1,0 +1,32 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-8.jpg](./image-8.jpg)
+
+![image-9.jpg](./image-9.jpg)
+
+![image-10.jpg](./image-10.jpg)
+
+### 一
+### 神子耶稣为我离宝座，降世为人，历尽忧苦；舍了自己，流血救赎我，从死复活，化身那灵，作我拯救主。
+### 永活救主，是我荣耀盼望，点活我灵，圣化我情；安家我心房，使我有力量，同众圣享主大爱，神丰满显明。
+### 二
+### 在主里面我获得新生，旧事已过，全都更新；爱中生活，新造何光明；生机拯救来自那灵，救恩何丰盛。
+### 永活救主，是我荣耀盼望，点活我灵，圣化我情；安家我心房，使我有力量，同众圣享主大爱，神丰满显明。
+### 三
+### 主，我爱你，愿跟随你行，奔跑赛程，讨你欢心；使我忠诚，紧联于你灵，直到路终，完全得胜，与你永相亲。
+### 永活救主，是我荣耀盼望，点活我灵，圣化我情；安家我心房，使我有力量，同众圣享主大爱，神丰满显明。
+

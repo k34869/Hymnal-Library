@@ -1,0 +1,21 @@
+第一节谱词领唱
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+mp3
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-4.jpg](./image-4.jpg)
+
+![image-5.jpg](./image-5.jpg)
+
+![image-6.jpg](./image-6.jpg)
+
+### 一
+### 荣耀的日子快来到，我们完全像祂，神的众子都进荣耀，全人被荣化；我当答应这神圣呼召，神已命定我来得荣耀，哦，我们前进朝着目标；新耶路撒冷！
+### 二
+### 荣耀的盼望我有份，得享美妙之光，还要浸透我整个人，显在我身上；我们成为团体彰显，彰显神形像直到永远，使神的荣耀得著称赞；新耶路撒冷！
+### 三
+### 荣耀的种子撒我里，愿祂天天长大，直到那成熟的境地，祂就要开花；那是我们要透出光辉，宇宙全都要发出赞美，列国将一切荣耀归给新耶路撒冷！
+

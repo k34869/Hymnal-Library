@@ -1,0 +1,46 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节清唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-9.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-10.jpg](./image-10.jpg)
+
+![image-11.jpg](./image-11.jpg)
+
+![image-12.jpg](./image-12.jpg)
+
+## 一 、
+
+## 若无流血就有赦罪，如何对付公义？若已流血仍然责备，仍然不能合理。
+
+## 二 、
+
+## 神，你今已不能追究，我主已经献祭；我已得着完全自由，我罪像东离西。
+
+## 三 、
+
+## 你义所有每一要求，我主都付代价；现今你只能加宽宥，因无审判可加。
+
+## 四 、
+
+## 前是爱叫祂来救赎，满足你义要求；满足你义，今叫我主释放所有罪囚。
+
+## 五 、
+
+## 奇妙、奇妙，在十字架，我遇爱和公义；爱和公义如此交加，使我歌唱不已。
+

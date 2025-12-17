@@ -1,0 +1,17 @@
+第一节谱词领唱
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+mp3
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-4.jpg](./image-4.jpg)
+
+![image-5.jpg](./image-5.jpg)
+
+### 一
+### 当我跟随耶稣在地脚踪，十字架深深印我心中，步步看见祂是如何舍己，神生命从祂表露无遗；祂像晨光从天放明，照亮罪人幽暗心灵，使疲困心来歇祂爱胸臆；我们所有罪恶祂已忘记。
+### 二
+### 祂有最高同情，最深怜恤，祂知道每种人生境遇，就是在悲恸人凄苍心底，也能见祂爱抚摸痕迹；我今追想已过年日，处处都是你爱故事，灵中逐日与你同行同止，深愿有日与你一样一式。
+

@@ -1,0 +1,17 @@
+第一节谱词领唱
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+mp3
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-4.jpg](./image-4.jpg)
+
+![image-5.jpg](./image-5.jpg)
+
+### 一
+### 我有基督献作燔祭，满足神的心意，我有基督献作素祭，活出神的公义；祂已成我完整代替，使我神前坚定站立，所有难处祂全平息，神人相会一起；我今献上基督燔祭，惟愿神心满意，我今献上基督素祭，彰显神的美丽。
+### 二
+### 祂曾一次献在祭坛，解决我罪我愆，我得随时进到神前，与神交通无间；同享基督无上平安，由衷发出无限感念，令人喜悦意足心满，日日都觉新鲜；我今将祂献在祭坛，除去所有亏欠，坦然来到施恩座前，欢喜见祂荣面。
+

@@ -1,0 +1,11 @@
+<audio src="./audio-0.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-2.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-3.jpg](./image-3.jpg)
+
+### 一
+### 为主打美好胜仗，凭主而活着，站住立场！不怕仇敌的攻击，靠主践踏在它的头上！为强的召会生活祷告，圣徒个个在灵里焚烧，在新人里面争战，达到神的目标！(荣耀，阿利路亚！)
+

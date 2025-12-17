@@ -1,0 +1,17 @@
+<audio src="./audio-0.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-2.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-3.jpg](./image-3.jpg)
+
+![image-4.jpg](./image-4.jpg)
+
+### 一
+### 哦！你今在何处，天天奔波又忙碌，却是虚空、虚空、虚空的生活！你曾追求过万物，却是不能得饱足，总觉得里面缺少、缺少些什么！
+### 你需要耶稣！宇宙之主！你需要享受祂的丰富！你的心虽比万物都大，祂却能够、能够使你得着满足！
+### 二
+### 哦！你确是自足，世上一切你都有，还是不觉、不觉、不觉得满足！你的工作有成就，学业也可以自负，但是在你的深处、深处仍缺如！
+### 你需要耶稣！宇宙之主！你需要享受祂的丰富！你的心虽比万物都大，祂却能够、能够使你得着满足！
+

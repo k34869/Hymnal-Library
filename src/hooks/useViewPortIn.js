@@ -1,4 +1,3 @@
-import { onBeforeUnmount } from "vue";
 import { onBeforeRouteLeave } from "vue-router";
 
 export function useViewPortIn() {
@@ -30,8 +29,10 @@ export function useViewPortIn() {
   }
 
   onBeforeRouteLeave(() => {
-    for (const el of els) {
-      observer.unobserve(el);
+    if (els) {
+      for (const el of els) {
+        observer.unobserve(el);
+      }
     }
   });
 

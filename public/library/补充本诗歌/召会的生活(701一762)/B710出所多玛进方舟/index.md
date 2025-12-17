@@ -1,0 +1,25 @@
+<audio src="./audio-0.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-2.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-3.jpg](./image-3.jpg)
+
+![image-4.jpg](./image-4.jpg)
+
+![image-5.jpg](./image-5.jpg)
+
+![image-6.jpg](./image-6.jpg)
+
+![image-7.jpg](./image-7.jpg)
+
+![image-8.jpg](./image-8.jpg)
+
+### 一
+### 人人要出所多玛，人人要出所多玛，人人要出所多玛，主必快来！世界都快要过去了，你还在留恋什么？我们被提日子近了，你要被提或留下？
+### 二
+### 在主被钉死地方，在主被钉死地方，在主被钉死地方，你要死透！我们已经与主同钉，世界对我是空白；我们如今活在地上，只为迎接祂再来！
+### 三
+### 人人都要进方舟，人人都要进方舟，人人都要进方舟，同过召会！方舟里头，我们享受主作我们的一切；多多经历，多多分享，不知枯燥不觉累！
+

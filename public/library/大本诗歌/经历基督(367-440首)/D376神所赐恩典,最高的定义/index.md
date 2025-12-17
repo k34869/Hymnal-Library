@@ -1,0 +1,43 @@
+mp3
+
+<audio src="./audio-2.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-4.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节清唱
+
+<audio src="./audio-6.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-8.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-10.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+<video src="./video-11.mp4" controls controlsList="nodownload"></video>
+
+![image-12.jpg](./image-12.jpg)
+
+![image-13.jpg](./image-13.jpg)
+
+![image-14.jpg](./image-14.jpg)
+
+![image-15.jpg](./image-15.jpg)
+
+![image-16.jpg](./image-16.jpg)
+
+## 一
+## 神所赐恩典，最高的定义，是神在子里所给的自己；不重在事物，赐于古或今，乃是神自己作我的永分。
+## 二
+## 神成为肉身，来与人调和，为给人接受，而将祂得着；人藉主从神所得的恩典，就是主自己来住我心间。
+## 三
+## 在使徒保罗，万事如粪土，恩典之于他，只是神基督；乃藉这恩典─他所经历主，他为主劳苦，超过众使徒。
+## 四
+## 基督在我里，作我的能力，乃是真恩典，够为我赖倚；这够用恩典在我的灵里，时常加我力，完成神旨意。
+## 五
+## 这恩典就是那活的基督作我的一切，时将我眷顾。主，愿我认识你这真恩典，享你作恩典，一直的增添。
+

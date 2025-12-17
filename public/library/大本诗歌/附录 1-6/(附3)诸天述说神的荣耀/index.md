@@ -1,0 +1,43 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节清唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-9.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-10.jpg](./image-10.jpg)
+
+![image-11.jpg](./image-11.jpg)
+
+![image-12.jpg](./image-12.jpg)
+
+![image-14.jpg](./image-14.jpg)
+
+![image-15.jpg](./image-15.jpg)
+
+### 一
+### 诸天述说神的荣耀；穹苍传扬祂的巧妙。日夜发言，晓谕不已，通遍天下，传到地极。神的永能，和祂特征，藉祂创造全都显明；虽非人眼所能见到，但观造物即可洞晓。
+### 二
+### 创造天地、万物活神，为证自己存在可信：常施恩惠，赏赐丰稔，使人饱足，喜乐满心。天降甘霖，地生五谷，永活真神所赐之福；丰衣足食，享受天恩，理当念及造物之神。
+### 三
+### 天地之主，万物之神，生命、气息，赐给万人；年限、疆界，由祂定准，要人揣摩，将祂求寻。自隐之神，人间之谜；不见之神，宇宙之秘。此一真理，人人当知，宇宙意义始能赏识。
+### 四
+### 不见之神显于所见，神圣启示尚非完全；神的身位，神的形像，还需一人前来表彰。耶稣基督，神的爱子，降世成为人的样式；神的特性，神的所是，全由这人彰显尽致。
+### 五
+### 奥秘基督，奇妙救主，乃是神在人间显出。原是永远无限的神，竟作时间有限的人。奥妙基督，神的化身，神人调和，惊人佳音。祂是真神，又是真人，要进你心，作你福分。
+### 六
+### 神的神性藏祂里面，神的荣形从祂彰显。前在肉身成功救赎，今成那灵与人联属。神人基督，道成肉身，舍命流血，救赎罪人；从死复活，化身那灵，为进你灵，作你生命。
+

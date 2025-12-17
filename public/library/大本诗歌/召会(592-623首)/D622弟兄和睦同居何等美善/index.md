@@ -1,0 +1,25 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节清唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-9.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+### 一
+### 弟兄和睦同居，何等美善：像油从亚伦头，流到衣衫；又像露从黑门，降在锡安；在此有生命福，直到永远！
+### 二
+### 心存欢喜诚实，来赴爱筵；藉此饱尝主恩，满心感赞！弟兄彼此交通，何等甘甜；盼望那日快到，不再离散。
+

@@ -1,0 +1,19 @@
+<audio src="./audio-0.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-2.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+### 纯享版
+
+<video src="./video-4.mp4" controls controlsList="nodownload"></video>
+
+![image-5.jpg](./image-5.jpg)
+
+![image-6.jpg](./image-6.jpg)
+
+### 一
+### 安家在召会，不再无家可归，我心终日喜乐又满足；基督作生命，一切挣扎全停，阿利路亚！我在家居住！我有家─召会，我今不再感无家可归；我一生一世高声颂赞不止，阿利路亚！基督与召会！
+### 二
+### 神已得安息，这是祂的住处，祂心终日喜乐又满足；祂家已恢复，撒但别想来侵，在此祂的荣耀全显出。神有家─召会，神今不再感无家可归；我一生一世高声颂赞不止，阿利路亚！基督与召会！
+

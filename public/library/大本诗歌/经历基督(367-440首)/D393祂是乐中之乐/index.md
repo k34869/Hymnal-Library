@@ -1,0 +1,57 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节清唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-9.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-10.jpg](./image-10.jpg)
+
+![image-11.jpg](./image-11.jpg)
+
+![image-12.jpg](./image-12.jpg)
+
+![image-13.jpg](./image-13.jpg)
+
+![image-14.jpg](./image-14.jpg)
+
+![image-15.jpg](./image-15.jpg)
+
+## 一
+## 祂是乐中之乐，祂已解我干渴；祂是歌中之歌，祂今消我寂寞。
+## 二
+## 祂是美中之美，合我人生口味；祂是贵中之贵，是我无上宝贝。
+## 三
+## 祂是命中之命，使我从死复生；祂是圣中之圣，使我与世不并。
+## 四
+## 祂是义中之义，使我神前站立；祂是力中之力，使我路中不疲。
+## 五
+## 祂是能中之能，使我如鹰上腾；祂是胜中之胜，使我得占上风。
+## 六
+## 祂是强中之强，将我全人释放；祂是壮中之壮，使我心灵坚刚。
+## 七
+## 祂是王中之王，祂今作我心皇；祂是光中之光，时时使我明亮。
+## 八
+## 祂是主中之主，祂今住我心府；祂是路中之路，处处引我脚步。
+## 九
+## 祂是医中之医，医我灵、魂、身体；祂是奇中之奇，使我荣耀无比。
+## 十
+## 祂是望中之望，吸我心情向上；祂是赏中之赏，引我脚步前往。
+## 十一
+## 祂是爱中之爱，配我全心感戴；祂是耐中之耐，配我永远敬拜。
+## 十二
+## 祂是雄中之雄，惟祂配我尊崇；祂是荣中之荣，惟祂配我称颂。
+

@@ -1,0 +1,44 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节清唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-9.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-10.jpg](./image-10.jpg)
+
+![image-11.jpg](./image-11.jpg)
+
+![image-12.jpg](./image-12.jpg)
+
+## 一 、
+
+## 神的大爱真是远超笔所能描、口所能陈；它比最高星宿还高，它比最深地狱还深。始祖犯罪，惊恐自危，神赐爱子来救；当人痛悔，神就迎归，所有罪案全勾。
+
+## 哦，神的爱，何其丰富、何其无法测量！它是坚强，存到永古，天使、圣徒同唱。、
+
+## 二 、
+
+## 岁月消逝，荣华衰败，天地废去，事物更变，人今拒绝神的大爱，那日唯有求助山岩；神的大爱不会稍改，何其无法测量；大施恩贷，对人罪债，圣徒、天使同唱。
+
+## 哦，神的爱，何其丰富、何其无法测量！它是坚强，存到永古，天使、圣徒同唱。、
+
+## 三 、
+
+## 纵令洋海尽是墨汁，无边穹苍都成白纸，田间草杆根根笔枝，世上众人个个文士；若写神的大爱无极，一切犹感缺欠；墨干、笔弃、纸罄、人敝，未能写出半点。
+
+## 哦，神的爱，何其丰富、何其无法测量！它是坚强，存到永古，天使、圣徒同唱。、
+

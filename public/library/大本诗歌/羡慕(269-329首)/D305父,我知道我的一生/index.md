@@ -1,0 +1,57 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节清唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-9.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+### 纯享版
+
+<video src="./video-12.mp4" controls controlsList="nodownload"></video>
+
+![image-13.jpg](./image-13.jpg)
+
+![image-14.jpg](./image-14.jpg)
+
+![image-15.jpg](./image-15.jpg)
+
+![image-16.jpg](./image-16.jpg)
+
+![image-17.jpg](./image-17.jpg)
+
+![image-18.jpg](./image-18.jpg)
+
+![image-19.jpg](./image-19.jpg)
+
+![image-20.jpg](./image-20.jpg)
+
+## 一
+## 父，我知道我的一生，你已替我分好；所有必须发生变更，我不害怕看到；我求你赐长久忠诚，存心讨你欢笑。
+## 二
+## 我求要得“有意”的爱，时常儆醒的慧，常以笑容欢迎事态，擦干不禁眼泪，心能与它自己合拍，好来同情、安慰。
+## 三
+## 我不要有不安意志，急忙到东到西，要求要作几件大事，或要明白秘密；我要被待如同孩子，所往都是受意。
+## 四
+## 无论我在世界何地，是有何种景况，我与人心有个交契，我要保守发旺，我要为爱出我微力，为着事奉我王。
+## 五
+## 我求你赐每日恩泽，使我能常受教；心能从里与外调和，当我与你契交；满意只占微小旁侧，若你能得荣耀。
+## 六
+## 每条路上都有虚假，是你要我忍耐；每种境遇都有十架，是你引我倚赖；但心靠你若是卑下，无论那里可爱。
+## 七
+## 如果在我幸福之中，有何尚未求祈，我是渴慕我的内衷，向你能满爱意；宁愿不多为你作工，完全使你欢喜。
+## 八
+## 你爱所定我的选择，不是我的捆绳；我在暗中受你领帅，已识你的见证：一生充满舍己的爱，就是自由一生。
+

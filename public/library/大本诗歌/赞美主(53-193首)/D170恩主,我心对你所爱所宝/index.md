@@ -1,0 +1,37 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节清唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-9.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-10.jpg](./image-10.jpg)
+
+![image-11.jpg](./image-11.jpg)
+
+![image-12.jpg](./image-12.jpg)
+
+![image-13.jpg](./image-13.jpg)
+
+## 一_
+## 恩主，我心对你所爱、所宝，在此，我口都要欢乐发表；你这复活，作我福分的主，现今我要向你献上称祝。
+## 二
+## 在此，你给我们再次尝到你的同在何其可爱、可宝；在你荫下我们欢乐、安息，你的美果我们饱尝不已。
+## 三
+## 你曾孤单，直至落到死地，像粒麦子结出许多子粒；藉着复活生出许多弟兄，使你一切我们都能与共。
+## 四
+## 哦主，你今作了我们一切，在你里面我们一无所缺；你已满足我们所有需要，我心感铭，我口永要称道。
+

@@ -1,0 +1,37 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节清唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-9.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-10.jpg](./image-10.jpg)
+
+![image-11.jpg](./image-11.jpg)
+
+![image-12.jpg](./image-12.jpg)
+
+![image-13.jpg](./image-13.jpg)
+
+## 一
+## 我们知你已复起，死亡中的初熟；我们见你已被提，荣耀元首基督。蒙恩得与你相交，心、思都能无忌来想你的众荣耀，因已与你合一。
+## 二
+## 你是万有的元首，你有最大权柄；你是以“人”升父右，你有最高的名！加略已显最高能，也显你最高爱；你爱已完全得胜，痛苦最暗残害。
+## 三
+## 不久万有宝珍你，万有赞美你名；不久万有承认你，向你表示欢迎。现今只有我们能认识你的大爱；能尝你爱满衷情，向你赞美不迨。
+## 四
+## 你名更比万名彰，你赐越乎众赐，你爱高于万爱上，永不、永不中止。我们欢乐来称道，因已合一不改；永远乃是你荣耀，永远乃是你爱。
+

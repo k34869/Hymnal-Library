@@ -1,0 +1,35 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+### 纯享版
+
+<video src="./video-5.mp4" controls controlsList="nodownload"></video>
+
+![image-6.jpg](./image-6.jpg)
+
+![image-7.jpg](./image-7.jpg)
+
+![image-8.jpg](./image-8.jpg)
+
+![image-9.jpg](./image-9.jpg)
+
+### 一
+### 我是时常软弱，软弱至极，所有信心消没，力量都疲；但你长久忍耐，从不放弃，仍要引我归爱，傍你胸臆。
+### 二
+### 我是时常起伏，忧惧不停，所有亮光衰微，盼望摇动；但你应许恩言，不改坚定，仍来开我心眼，向你忠诚。
+### 三
+### 我是时常保留，损失都畏，所有筹划为己，祭坛倾废；但你柔爱怜悯，竟不收回，仍来将我吸引，向你全归。
+### 四
+### 我是时常单独，自己追求，所有欢乐愁苦，寂寞承受；但你细细部署，不肯松手，仍来领我脚步，向你倚投。
+### 五
+### 我是时常无知，错识你心，所有思念体贴都在己身；但你光照不止，启示心意，仍来转我想愿，与你成一。
+### 六
+### 当我想到你的一切对待，我是不知如何回报你爱；在我每一今日，尚有微力，仍然我要尽力，一生爱你。
+### 七
+### 不问我的前途光明黑暗，不理我的道路平顺艰难；如果是你许可，宁愿等候，只要是你拣选，欢然行走。
+

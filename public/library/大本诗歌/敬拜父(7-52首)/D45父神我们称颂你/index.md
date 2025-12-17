@@ -1,0 +1,33 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节清唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-9.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-10.jpg](./image-10.jpg)
+
+![image-11.jpg](./image-11.jpg)
+
+![image-12.jpg](./image-12.jpg)
+
+## 一
+## 父神，我们称颂你，你前我们欢喜；永远脱开了死亡，与你儿子一起。祂是一“人”活你前，在那清明光中，在你无限的爱里，永远蒙你恩宠。
+## 二
+## 祂父就是我们父，祂神就是我神；祂是你爱的儿子，你心所喜所珍。祂带我们亲近你，有分于祂地位，享受你爱的恩宠，并你脸上光辉。
+## 三
+## 你爱已将我拥抱，这爱永不消沉；这爱全都集中，在你的爱子一身。在祂里面，你众子─祂的许多弟兄─与祂同享你这爱，同受你的恩宠。
+

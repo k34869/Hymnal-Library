@@ -1,0 +1,42 @@
+<video src="./video-0.mp4" controls controlsList="nodownload"></video>
+
+第一节谱词领唱
+
+<audio src="./audio-2.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+mp3
+
+<audio src="./audio-4.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-5.jpg](./image-5.jpg)
+
+![image-6.jpg](./image-6.jpg)
+
+![image-7.jpg](./image-7.jpg)
+
+![image-8.jpg](./image-8.jpg)
+
+一
+
+### 一天天，一点点，享受祂恩言，既新鲜，又甘甜，温润我心田；
+
+### 赐智能启示灵，光照我心眼，祂呼召满盼望，基业到永远；
+
+### 藉着祂灵用大能，加强到里面，好使基督藉着信，安家在心间。
+
+### 二
+
+### 一天天，一点点，支取祂恩典，莫忧虑，免愁烦，凡事祂顾念；
+
+### 藉祷告和祈求，所要告诉祂，基督里，赐平安，超过我所愿。
+
+### 向着标竿竭力跑，向上得奖赏；认识基督为至宝，万事不称羡。
+
+### 三
+
+### 一天天，一点点，神能力彰显，所见的是短暂，顾念所不见；
+
+### 瓦器里有宝贝，显明神能力，为耶稣交于死，生命才显现；
+
+### 我们不是传自己，乃是传基督，也传作基督奴仆，是我们心愿。
+

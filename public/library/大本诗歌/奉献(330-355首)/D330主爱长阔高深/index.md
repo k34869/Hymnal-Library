@@ -1,0 +1,51 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节清唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-9.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-10.jpg](./image-10.jpg)
+
+![image-11.jpg](./image-11.jpg)
+
+![image-12.jpg](./image-12.jpg)
+
+![image-13.jpg](./image-13.jpg)
+
+![image-14.jpg](./image-14.jpg)
+
+## 一_
+## 主爱长阔高深，实在不能推测；不然，像我这样罪人，怎能满被恩泽。
+## 二
+## 我主出了重价，买我回来归祂；我今愿意背十字架，忠心一路跟祂。
+## 三
+## 我今撇下一切，为要得着基督；生也、死也，想都不屑，有何使我回顾？
+## 四
+## 亲友、欲好、利名，于我夫复何用？恩主为我变作苦贫，我今为主亦穷。
+## 五
+## 我爱我的救主，我求祂的称是；为祂之故，安逸变苦，利益变为损失！
+## 六
+## 你是我的安慰，我的恩主耶稣！除你之外，在天何归？在地何所爱慕？
+## 七
+## 艰苦、反对、飘零，我今一起不理；只求我主用你爱情，绕我灵、魂、身体。
+## 七
+## 主阿，我今求你，施恩引导小子，立在我旁，常加我力，过此黑暗罪世。
+## 九
+## 撒但、世界、肉体，时常试探、欺凌；你若不加小子能力，恐将贻羞你名！
+## 十
+## 现今时候不多，求主使我脱尘；你一再来，我即唱说：阿利路亚！阿们！
+

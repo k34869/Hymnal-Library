@@ -1,0 +1,37 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-8.jpg](./image-8.jpg)
+
+![image-9.jpg](./image-9.jpg)
+
+![image-10.jpg](./image-10.jpg)
+
+![image-11.jpg](./image-11.jpg)
+
+![image-12.jpg](./image-12.jpg)
+
+### 一
+### 看哪，地上万民聚集，一同谋算虚妄事；君王臣宰起来商议，同声一气抵挡主。“我们挣开一切捆绑，脱去他们的绳索，”世上君王如此设谋，抵挡神并受膏者。
+### 二
+### 那坐天上的必发笑，主必定嗤笑他们；那时祂在怒中责备，烈怒中惊吓他们。在祂的锡安圣山上，神已膏祂的君王─这是神自己的宣告，警戒地上的诸王。
+### 三
+### 现今基督，神所膏者，传扬主神的旨意：“你是我子(在复活里)，我在今日生了你。我将列国都赐给你，使你承受为基业，你显王权，手拿铁杖，将他们打破摔裂。”
+### 四
+### 你们君王应当省悟，审判官该受管教；当存畏惧事奉我主，又存战兢而欢跃。当以嘴亲子，消祂怒，免得你道中灭亡；“投靠祂的是有福的，”让我们同来欢唱！
+### 五
+### 哦，赞美神，我们看见你独一受膏之子；从虚妄中我们悔改，在爱里亲你爱子。“投靠祂的是有福的”─非那“遵守律法的；”只要信靠那复活者，就必蒙福永无已。
+

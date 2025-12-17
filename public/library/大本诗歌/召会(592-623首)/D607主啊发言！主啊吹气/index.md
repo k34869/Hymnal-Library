@@ -1,0 +1,35 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节清唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-9.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+### 一
+### 主阿，发言！主阿，吹气！请看，枯骨遍满全地！埋在墓中，离散死寂，求主发言并吹气！
+### 二
+### 主阿，发言，主阿，吹气！吹进枯骨，使之复起，出离坟墓，脱开死地，求主发言并吹气！
+### 三
+### 主阿，发言，主阿，吹气！使你子民活到一起，成为大军，向敌攻击，求主发言并吹气！
+### 四
+### 主阿，发言，主阿，吹气！使你子民合而为一，权柄、带领，不再互异，求主发言并吹气！
+### 五
+### 主阿，发言，主阿，吹气！使你子民搭成一体，作你居所，使你安息，求主发言并吹气！
+### 六
+### 向我发言，向我吹气！使我复苏，归回身体，不再死寂，不再孤僻，主阿，现在就吹气！
+### 七
+### 向我发言，向我吹气！愿与众圣进攻仇敌，使你居所早得建立，主阿，现在就吹气！
+

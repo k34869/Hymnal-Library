@@ -1,0 +1,37 @@
+第一节谱词领唱
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+mp3
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-8.jpg](./image-8.jpg)
+
+![image-9.jpg](./image-9.jpg)
+
+![image-10.jpg](./image-10.jpg)
+
+![image-11.jpg](./image-11.jpg)
+
+![image-12.jpg](./image-12.jpg)
+
+### 一
+### 兴起！我魂，兴起！摆脱惧怕蒙蔽；救主流血作祭，神前我蒙称义。宝座之前担保确立，我得安稳在神手里，我得安稳在神手里。
+### 二
+### 救主活到永久，在天为我代求；祂爱赎回万有，祂血满足要求；为救万族、万民而流，施恩座前功效不朽。
+### 三
+### 加略十字架上，手足、肋旁受创；祂行父旨不忘，代求，将罪担当；宽容、赦免无知顶撞，蒙赎罪人免去死亡。
+### 四
+### 祷告蒙父垂听，受膏基督高升；救赎大功完成，父来称许、印证；祂灵应允宝血之声，宣告我已由神而生。
+### 五
+### 我今与神和好，知祂赦免、宽饶；儿女将父倚靠，忧虑不再搅扰；凭信坦然进前宣告：阿爸，父阿，与你和好。
+

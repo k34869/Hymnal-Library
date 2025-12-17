@@ -1,0 +1,29 @@
+{
+    "type": "map-folder",
+    "list": [
+        {
+            "name": "大本诗歌",
+            "description": "30 项"
+        },
+        {
+            "name": "补充本诗歌",
+            "description": "11 项"
+        },
+        {
+            "name": "青年诗歌",
+            "description": "3 项"
+        },
+        {
+            "name": "新歌颂咏",
+            "description": "6 项"
+        },
+        {
+            "name": "唱诗人",
+            "description": "126 项"
+        },
+        {
+            "name": "儿童诗歌",
+            "description": "13 项"
+        }
+    ]
+}

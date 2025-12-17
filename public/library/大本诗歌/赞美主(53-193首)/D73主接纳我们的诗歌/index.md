@@ -1,0 +1,43 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节清唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-9.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-10.jpg](./image-10.jpg)
+
+![image-11.jpg](./image-11.jpg)
+
+![image-12.jpg](./image-12.jpg)
+
+![image-13.jpg](./image-13.jpg)
+
+## 一
+## 主，接纳我们的诗歌，虽然声音顶柔弱；我们述说你的恩笃，因你是我们救主。
+## 二
+## 因你舍去荣耀、丰富，你的信徒才得福；你变贫穷，叫你信徒因你享荣耀、丰富。
+## 三
+## 天上有何使你心厌？世界有何使你羡？因而你就离天临世，孤单、凄凉直到死？
+## 四
+## 你在天上何等荣耀！你在世上何萧条！你早已知此行艰难，只因爱我竟甘愿。
+## 五
+## 当我想到你的良善，就不禁又喜又惭！喜，因你能这样爱好；惭，因我这样还报。
+## 六
+## 但我们望那日快到，脱尽所有的阻挠；那时我们进荣耀里，要照本分服事你。
+## 七
+## 现今我们等在这里，因这盼望受策励；主，使我们活着为你，直到你前同聚集。
+

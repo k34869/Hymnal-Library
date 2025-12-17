@@ -1,0 +1,18 @@
+第一节谱词领唱
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+mp3
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-4.jpg](./image-4.jpg)
+
+![image-5.jpg](./image-5.jpg)
+
+### 神的国显在人间
+
+### 一、神的国显在人间，神的国爱在掌权，充满着公义、和平，处处是喜乐光明；神重生我，进神的国，我要永在召会生活，与众圣徒建造成神居所。
+
+### 二、我听见歌声萦绕，我看见荣脸欢笑，我享受神人联调，满足于属天新造；神呼召我，为神的国，献上自己为爱工作，将这福音传遍每个角落。
+

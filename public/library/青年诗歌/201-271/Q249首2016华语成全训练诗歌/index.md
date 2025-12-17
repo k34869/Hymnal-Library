@@ -1,0 +1,68 @@
+第一节谱词领唱
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+mp3
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-4.jpg](./image-4.jpg)
+
+![image-5.jpg](./image-5.jpg)
+
+![image-6.jpg](./image-6.jpg)
+
+![image-7.jpg](./image-7.jpg)
+
+![image-8.jpg](./image-8.jpg)
+
+![image-9.jpg](./image-9.jpg)
+
+![image-10.jpg](./image-10.jpg)
+
+### 2016年成全训练诗歌
+
+###           全然奉献为神家建造
+### 
+### 
+
+### （一）
+
+### 海边的呼召，祭坛的火焚烧；
+
+### 为福音而活，成为基督同伙。
+
+### 楼上的祷告，需要专特奉献；
+
+### 翻转这时代，神经纶得实现。
+
+### （副）
+
+### 一切全奉献，一切全奉献；
+
+### 完成神的心愿，伯特利梦实现。
+
+### 一切全奉献，一切全奉献；
+
+### 完成神的心愿，伯特利梦实现。
+
+### （二）
+
+### 为主交朋友，建立甜美关系；
+
+### 对人有兴趣，人性关切顾惜。
+
+### 常认罪祷告，时时被灵充溢；
+
+### 实行活力排，带进建造实际。
+
+### （副）
+
+### 一切为建造，一切为建造；
+
+### 让基督得繁增，使召会得复兴。
+
+### 一切为建造，一切为建造；
+
+### 让基督得繁增，使召会得建造。
+

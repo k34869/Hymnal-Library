@@ -1,0 +1,17 @@
+第一节谱词领唱
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+mp3
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-4.jpg](./image-4.jpg)
+
+![image-5.jpg](./image-5.jpg)
+
+### 一
+### 我们是一粒粒麦子，里面却有不死的生命，经过死的破碎，限制，就要显出复活的荣景；只要埋下，置魂生命于十架，就要结实，神的生命繁殖。我们是一粒粒麦子，里面去有不死的生命，经过死的破碎，限制，就要显出复活的荣景；
+### 二
+### 我听主一次次呼召，今愿跟随我主的脚步，使我不再完整如故，惟愿生命在我有出路；将我种下，直到复活的萌芽，结成满穗，一粒扩增百倍。我听主一次次呼召，今愿跟随我主的脚步，使我不再完整如故，惟愿生命在我有出路；
+

@@ -10,7 +10,7 @@
       <p>资料库来源：<a href="https://mygoodland.notion.site/">https://mygoodland.notion.site/</a></p>
       <p>界面风格：Material Design 3</p>
     </div>
-    <p>本软件资料库数据来源于 https://mygoodland.notion.site，所有数据存储在云端，需要联网，有任何问题可以通过邮箱向我反馈</p>
+    <p>本软件资料库数据来源于 https://mygoodland.notion.site，有任何问题可以通过邮箱向我反馈</p>
     <br>
     <p>如果你觉得这个软件对你有帮助，可以给作者一点捐赠😄</p>
     <div class="pay-qr-code">

@@ -1,0 +1,24 @@
+第一节谱词领唱
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+mp3
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-4.jpg](./image-4.jpg)
+
+![image-5.jpg](./image-5.jpg)
+
+![image-6.jpg](./image-6.jpg)
+
+### 一
+### 时候快要到了，主要醡葡萄！吸满地汁，滴滴都要醡出！主是一无所有，如根出干地，你怎能够与“地”这么亲密？
+### 快起来脱离“地”，快抢救自己，作初熟的果子，归神与主。
+### 二
+### 时候快要满足，主要收麦子！麦子要熟，需断“地”的享受；它的里头饱满，外面却枯干；主作一切，就不需要世界。
+### 快起来脱离“地”，快抢救自己，作初熟的果子，归神与主。
+### 三
+### 作初熟的果子，是何等有福！得享婚筵，又得同掌王权！不要等待世界来把你对付，趁有今日，自动丢弃粪土。
+### 快起来脱离“地”，快抢救自己，作初熟的果子，归神与主。
+

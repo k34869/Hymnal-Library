@@ -1,0 +1,32 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节清唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-9.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+### 一_
+### 仰望耶稣，将亡人！望就活！望就活！仰望救主已舍身，望就活！看祂木上被举着，望就活！望就活！听祂在说：“仰望我！”望就活！
+### 看哪！救主举木上，仰望救主医死伤；望就活了！何必亡？望就活！
+### 二
+### 你虽邪恶又污秽，望就活！望就活！如望，就必脱众罪，望就活！久受撒但的捆绑，望就活！望就活！一望，就必得释放，望就活！
+### 看哪！救主举木上，仰望救主医死伤；望就活了！何必亡？望就活！
+### 三
+### 你虽流荡已久远，望就活！望就活！却莫硬心在今天，望就活！救主巴望你回转！望就活！望就活！为何忍心仍迟延？望就活！
+### 看哪！救主举木上，仰望救主医死伤；望就活了！何必亡？望就活！
+
+mp3教唱第一节清唱第一节谱词领唱伴奏
+

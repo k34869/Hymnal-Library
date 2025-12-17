@@ -1,0 +1,11 @@
+<audio src="./audio-0.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-2.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-3.jpg](./image-3.jpg)
+
+### 一
+### 在地方召会中─神所拣选；在此基督作生命，圣灵有主权。(阿利路亚)在灵中，站立场，为主争战！我们必胜过仇敌，带进神国度─基督作王。
+

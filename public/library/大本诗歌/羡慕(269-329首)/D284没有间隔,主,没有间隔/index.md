@@ -1,0 +1,51 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节清唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-9.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-12.jpg](./image-12.jpg)
+
+![image-13.jpg](./image-13.jpg)
+
+![image-14.jpg](./image-14.jpg)
+
+![image-15.jpg](./image-15.jpg)
+
+![image-16.jpg](./image-16.jpg)
+
+![image-17.jpg](./image-17.jpg)
+
+![image-18.jpg](./image-18.jpg)
+
+## 一_
+## 没有间隔，主，没有间隔；让我见你荣面，引我近你身边，然后听你慈言；没有间隔，没有间隔。
+## 二
+## 没有间隔，主，没有间隔；但愿地上翻腾不乱你的微声；我愿向你忠诚；没有间隔，没有间隔。
+## 三
+## 没有间隔，主，没有间隔；没有世上挂虑，没有属己兴趣，没有掩饰空虚；没有间隔，没有间隔。
+## 四
+## 没有间隔，主，没有间隔；当你亲近我时，疑惑完全消失，恐惧也都停止；没有间隔，没有间隔。
+## 五
+## 没有间隔，主，没有间隔；求你照耀辉煌，消灭一切邪光，作我无限心王；没有间隔，没有间隔。
+## 六
+## 没有间隔，主，没有间隔；愿我如此随你，愿我所见惟你，愿我所归惟你；没有间隔，没有间隔。
+## 七
+## 没有间隔，主，没有间隔；直到我眼看见你的永光显现，再无任何黑暗；没有间隔，没有间隔。
+## 八
+## 没有间隔，主，没有间隔；直到此生过去，脱离地上寄庐，永远与你同居；没有间隔，没有间隔。
+

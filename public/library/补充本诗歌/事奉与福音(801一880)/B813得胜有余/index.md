@@ -1,0 +1,13 @@
+<audio src="./audio-0.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-2.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-3.jpg](./image-3.jpg)
+
+![image-4.jpg](./image-4.jpg)
+
+### 一
+### 赞美主，我们都在基督里得胜有余！万事万物都互相效力，使我们得益。召会是蒙主拣选，完全合乎神旨意，原是得胜，全是得胜，本质就是得胜！仇敌虽然不甘，多次多方攻击，患难、困苦、逼迫、饥饿、赤身露体，靠我们主在凡事上都得胜有余。得胜！已经完全的得胜！已经完全的得胜！已经完全的得胜！(重复头四句。)
+

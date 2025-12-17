@@ -1,0 +1,33 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节清唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+伴奏
+
+<audio src="./audio-8.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+### 一
+### 圣徒在基督里，互相作肢体，成为一个身体，配搭在一起。
+### 二
+### 恩赐虽有不同，圣灵是一位；职事虽有多种，主也是一位。
+### 三
+### 谁也不能无谁，不可轻或重；各有各的地位，各有各功用。
+### 四
+### 蒙恩有多有少，恩赐分大小；看得合乎中道，谦卑不自高。
+### 五
+### 各尽各的职事，各显各功用；个个都不松弛，个个都尽忠。
+### 六
+### 互相供应联系，彼此多包容；毫无不谐嫌隙，凡事主为重。
+### 七
+### 基督乃是元首，召会是身体；圣灵又是膏油，我们该是一。
+

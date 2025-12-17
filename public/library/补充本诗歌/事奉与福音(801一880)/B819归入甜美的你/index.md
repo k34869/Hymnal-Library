@@ -1,0 +1,15 @@
+<audio src="./audio-0.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-2.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-3.jpg](./image-3.jpg)
+
+![image-4.jpg](./image-4.jpg)
+
+### 一
+### 我们曾遍寻各处的山岭高岗，盼望得知人生的真相，但是一次一次我们换得失望，知道世事不过是这样。直到一天你来途中遇见我们，将你可爱的胸怀敞露，我们就被吸引归入甜美的你，得着人生的真谛实意。
+### 二
+### 我们看见你那复活里的荣脸，知道你曾戴荆棘冠冕；你那可亲的手是我所依所倾，因手上钉痕依然显明。我们现今在此享受可爱的你，日复一日更觉你实际，犹如潺潺流水归回无垠大海，不知不觉失去在你里。
+

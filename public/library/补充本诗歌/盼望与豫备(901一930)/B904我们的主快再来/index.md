@@ -1,0 +1,25 @@
+第一节谱词领唱
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+mp3
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-4.jpg](./image-4.jpg)
+
+![image-5.jpg](./image-5.jpg)
+
+![image-6.jpg](./image-6.jpg)
+
+![image-7.jpg](./image-7.jpg)
+
+### 一
+### 醒吧，弟兄！醒吧，姊妹！黑夜已深，白昼现正临近。我们的主快再来，快再来，快再来。我们的主快再来，掌权直到万代。
+### 二
+### 时候不多！不可懒惰！在祂面前必须多花时间，我们就必充满主，充满主，充满主，我们就必充满主，并要将主溢出。
+### 三
+### 应当喜乐！凭信唱歌！任何试炼，只要住主里面！我们快乐往前走，往前走，往前走；无论夜是多么暗，有主就可安然。
+### 四
+### 站稳，弟兄！站稳，姊妹！争战快停，灵里刚强前行，一直等到主再来，主再来，主再来。一直等到主再来，同作王到万代。
+

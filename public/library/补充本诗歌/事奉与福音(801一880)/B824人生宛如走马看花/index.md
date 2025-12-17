@@ -1,0 +1,21 @@
+<audio src="./audio-0.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-2.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-3.jpg](./image-3.jpg)
+
+![image-4.jpg](./image-4.jpg)
+
+![image-5.jpg](./image-5.jpg)
+
+### 一
+### 有所得─多少东西你梦寐以求，衣食住行育乐样样有；等到得手，不过如此。
+### 二
+### 有所事─兴高采烈不过一阵子，喜新厌旧又再绞脑汁；日光之下，并无新事。
+### 三
+### 人生宛如走马看花，来去匆匆，天天忙西忙东，到头来是虚空的虚空。你寻求─要看有何能叫你满足，扎扎实实非敷衍了事，能解决你心中苦楚。
+### 四
+### 不错，是有一样你从来没有过，你所可能企求的都可在祂身上得着。祂是主─祂是何等的丰富实际，我的无聊已消踪匿迹。祂填满了我的空虚。(结尾)哦主耶稣，你是实际！
+

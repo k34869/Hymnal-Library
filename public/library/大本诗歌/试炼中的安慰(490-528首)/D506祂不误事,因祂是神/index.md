@@ -1,0 +1,53 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节清唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-9.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-10.jpg](./image-10.jpg)
+
+![image-11.jpg](./image-11.jpg)
+
+![image-12.jpg](./image-12.jpg)
+
+![image-13.jpg](./image-13.jpg)
+
+![image-14.jpg](./image-14.jpg)
+
+![image-15.jpg](./image-15.jpg)
+
+![image-16.jpg](./image-16.jpg)
+
+![image-17.jpg](./image-17.jpg)
+
+## 一
+## 祂不误事，因祂是神！祂不误事，祂乐施恩！祂不误事，祂已许过！我们有神，还怕谁何？
+## 二
+## 有何高山你不能锄？有何深水你不能渡？我们的神专门处置人所以为不能的事。
+## 三
+## 是祂使铁浮水而起，是祂使海分成干地，是祂使日半空停止，我们的神并无难事！
+## 四
+## 祂使软沙作海界限，波浪虽狂，不能再前；祂是你神，还有什么祂是不能为你工作？
+## 五
+## 祂心爱你，知你难处，所以应许祂要照顾；我们的神充满怜悯，对待祂的无告子民。
+## 六
+## 我们的神不能不义，不能将祂应许忘记；祂的应许在基督里，都是阿们，都是是的。
+## 七
+## 我们的神不能失信，祂的恩约永远坚定，祂要照祂应许，答应我们因信所发呼声。
+## 八
+## 我们因信欢乐唱说：祂不误我，祂已许过！祂不误我，祂乐施恩！祂不误我，因祂是神！
+

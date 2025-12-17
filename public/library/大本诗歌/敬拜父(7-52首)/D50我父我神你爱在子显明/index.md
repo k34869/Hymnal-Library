@@ -1,0 +1,37 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节清唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-9.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-10.jpg](./image-10.jpg)
+
+![image-11.jpg](./image-11.jpg)
+
+![image-12.jpg](./image-12.jpg)
+
+![image-13.jpg](./image-13.jpg)
+
+## 一_
+## 我父、我神，你爱在子显明，对此我们再来你前响应。祂作燔祭，满足你的心意；忍受十架，使我得你欢喜。
+## 二
+## 祂今率领许多弟兄歌唱，我们和声，从心响应颂扬。当祂在此引声向你赞美，我们灵里共鸣，欢然跟随。
+## 三
+## 在你爱子里面蒙了拣选，今得有分你前欢呼、颂赞；创世之前已经蒙你预定，要我有分于你儿子生命。
+## 四
+## 蒙爱众子，全由你灵更新，有你爱子作那无穷之分；每个都有祂的一分特点，供你喜悦欣赏，直到永远。
+

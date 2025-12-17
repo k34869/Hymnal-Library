@@ -11,7 +11,7 @@
         </mdui-menu>
       </mdui-dropdown>
     </div>
-    <div class="markdown-content" v-show="isLoading" ref="markdown-content"></div>
+    <div class="markdown-content" v-show="isLoading"></div>
     <div class="loading" v-if="!isLoading">
       <mdui-circular-progress></mdui-circular-progress>
     </div>

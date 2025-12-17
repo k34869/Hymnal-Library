@@ -1,0 +1,29 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节清唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-9.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+### 一_
+### 新约之下所有事奉，不在字句只在灵；字句乃是将人杀死，惟有灵是叫人生。外面作的全都不算，里面作的才算是；不是按着旧的仪文，乃是照灵新样式。
+### 二
+### 不是仅藉外面教导，乃靠里面的恩膏；不是仅藉外面样式，乃藉里面的光照。不是凭着人的规条，乃凭属天的管治；不是照着人的决定，乃照神赐的启示。
+### 三
+### 不是给人死的宗教，乃是供应活基督；不是传递虚空神学，乃是活出主丰富。不是道理、字句、知识，乃是基督作信息；不是恩赐、仪式、作法，乃是基督为实际。
+### 四
+### 不是客观对神敬拜，乃是主观事奉神；不是传扬客观基督，乃让基督显我身。不是仅凭圣经作工，乃是藉灵和生命；不是靠着肉体、自己，乃靠大能的圣灵。
+

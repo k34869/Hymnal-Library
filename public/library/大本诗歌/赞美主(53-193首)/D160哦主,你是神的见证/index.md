@@ -1,0 +1,45 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节清唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-9.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-10.jpg](./image-10.jpg)
+
+![image-11.jpg](./image-11.jpg)
+
+![image-12.jpg](./image-12.jpg)
+
+![image-13.jpg](./image-13.jpg)
+
+![image-14.jpg](./image-14.jpg)
+
+![image-15.jpg](./image-15.jpg)
+
+## 一
+## 哦主，你是神的见证，远非律法能比；律法不过是你小影，你是律法实际。律法仅是神的说明，描述神是如何；而你乃是神的实际，神在你里住着。
+## 二
+## 约柜也是你的预表，其中仅有律法；但你里面有神自己，带着一切安家。约柜乃用坚实木料，上面包金而造；预表你有正确人性，并有神性相调。
+## 三
+## 你也是那真实帐幕，有神住你里面；你成肉身，与人同住，满有真理、恩典。在你人见神的荣耀，你是神的活话；你凭光、爱所有言行，是神活的图画。
+## 四
+## 圣殿也是你的预表，你是神的真殿；神带一切居住于你，藉你得着彰显。撒但虽尽其力拆毁，将你置于死地，但你却在复活里面，更大之殿建起。
+## 五
+## 圣城象征你的丰满，是你新妇小影；这是你的丰满扩充，出于你的丰盛。神在你里作城的光，你是城中明灯；带神经她照亮众人，将神荣耀显明。
+## 六
+## 哦主，帐幕、约柜、律法，以及圣殿、圣城，全都是你宝贵自己，说出你的丰盛。中心是你，圆周是你、一切全都是你！神、人全都在你一身，我心宝爱、称奇。
+

@@ -1,0 +1,43 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节清唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-9.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-10.jpg](./image-10.jpg)
+
+![image-11.jpg](./image-11.jpg)
+
+![image-12.jpg](./image-12.jpg)
+
+![image-13.jpg](./image-13.jpg)
+
+## 一
+## 我们虽然时常摇动，但祂依然历久不变；祂的应许无一落空，天地没有那样贞坚。
+## 二
+## 我们虽然二三其心，但祂不肯撇弃我们；虽受冷落，仍要亲近，地上朋友无祂这真！
+## 三
+## 祂永不肯辜负我们，所有信托祂都尽力；因为祂既爱了我们，就爱我们一直到底。
+## 四
+## 到底！我们对祂无良，忘祂，伤祂，暗中心变；祂外，我们另事偶像，心里也不抱歉半点！
+## 五
+## 到这偶像倾倒绝迹，不禁悲伤，又来寻求我们从前所辜负的，这位始终如一的友！
+## 六
+## 祂又收留安慰我们，并引我们亲近自己，一若毫无其事发生，并爱我们一直到底。
+## 七
+## 哦主，我们对着这爱，不能不发高声赞美；比死坚强，比水忍耐，我们心融，只有感佩。
+

@@ -1,0 +1,30 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节清唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-9.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+### 一
+### 无论何人愿意，就可得救恩，这是天上来的佳音给罪人；赶快将这信息向万人宣陈：无论何人都可来。
+### “无论什么人，无论什么人，”这是慈爱天父唤浪子回家；“无论老幼、男妇，都不必代价，无论什么人可来。”
+### 二
+### 无论何人想来，不必稍迟延；恩门已经大开，进者可随便；耶稣真是救主，祂已发恩言：无论何人都可来。
+### “无论什么人，无论什么人，”这是慈爱天父唤浪子回家；“无论老幼、男妇，都不必代价，无论什么人可来。”
+### 三
+### 无论何人愿意，就可得永生；无论何人愿意，这话语有征；无论何人愿意，这应许无更，无论何人都可来。
+### “无论什么人，无论什么人，”这是慈爱天父唤浪子回家；“无论老幼、男妇，都不必代价，无论什么人可来。”
+

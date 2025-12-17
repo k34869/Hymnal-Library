@@ -1,0 +1,43 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节清唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-9.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-10.jpg](./image-10.jpg)
+
+![image-11.jpg](./image-11.jpg)
+
+![image-12.jpg](./image-12.jpg)
+
+![image-13.jpg](./image-13.jpg)
+
+## 一
+## 恩主，你是公义太阳，富有医治光线；你的荣耀面光照临，带来生命、平安。
+## 二
+## 慈爱神的怜悯心肠，叫你临到我们，为要照亮坐在黑暗死荫之中的人。
+## 三
+## 对我你像无云清晨，又如日出晨光；我们乃像地上嫩草，靠你光线生长。
+## 四
+## 恩光带着可爱光线，扩增犹如天曙；在我里面越照越明，直至中天日午。
+## 五
+## 清明光线照透苦难，犹如雨后晴光；带着你的怜悯、慈爱，永不停止照亮。
+## 六
+## 主，你也是明亮晨星，作我儆醒赏赐；照亮那些爱你之人，正当黑暗深时。
+## 七
+## 求主使我爱慕你光，使我眼光清明；儆醒、祷告、等候你来，犹如等候晨星。
+

@@ -1,0 +1,17 @@
+<audio src="./audio-0.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-2.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-3.jpg](./image-3.jpg)
+
+![image-4.jpg](./image-4.jpg)
+
+### 一
+### 看哪！桌上摆设筵席，一饼一杯，神圣表记；亲爱救主热切邀集，我们欢喜来坐席。祂来呼召，神、人同席，显明救主永远心意；丰富供应，全备、洋溢，前来同享勿迟疑。
+### 二
+### 我们现在与祂同席，祂与我们何等亲近；阿利路亚！赞美不已！上好筵席无止尽。吃喝享受主的自己，满足我们全人全心；预尝那日荣耀筵席，作祂新妇何欢欣。
+
+
+

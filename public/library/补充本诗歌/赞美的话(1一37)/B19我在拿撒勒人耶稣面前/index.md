@@ -1,0 +1,46 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-8.jpg](./image-8.jpg)
+
+![image-9.jpg](./image-9.jpg)
+
+![image-10.jpg](./image-10.jpg)
+
+![image-11.jpg](./image-11.jpg)
+
+![image-12.jpg](./image-12.jpg)
+
+![image-13.jpg](./image-13.jpg)
+
+![image-14.jpg](./image-14.jpg)
+
+### 一
+### 我在拿撒勒人耶稣面前惊异的站立，希奇，不洁罪人如我，祂爱竟然能临及。
+### 何等希奇！何等奇妙！我要歌唱到万代，何等希奇！何等奇妙！是我救主的大爱！
+### 二
+### 为我祂在园中祷告：“只要照你的旨意；”祂无眼泪为己忧伤，为我流汗如血滴。
+### 何等希奇！何等奇妙！我要歌唱到万代，何等希奇！何等奇妙！是我救主的大爱！
+### 三
+### 天使看见就怜恤祂，从光明之中显现；在那极其伤痛晚上，使祂力量得加添。
+### 何等希奇！何等奇妙！我要歌唱到万代，何等希奇！何等奇妙！是我救主的大爱！
+### 四
+### 祂除去我罪与我忧，将其全归祂自己；祂负重担到各各他，独自受苦并受死。
+### 何等希奇！何等奇妙！我要歌唱到万代，何等希奇！何等奇妙！是我救主的大爱！
+### 五
+### 当那日与蒙赎的人，在荣耀里见祂面，何等欢乐歌唱祂爱，一直到千万亿年。
+### 何等希奇！何等奇妙！我要歌唱到万代，何等希奇！何等奇妙！是我救主的大爱！
+

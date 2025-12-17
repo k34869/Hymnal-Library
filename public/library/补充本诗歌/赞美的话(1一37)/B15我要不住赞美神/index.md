@@ -1,0 +1,36 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-8.jpg](./image-8.jpg)
+
+![image-9.jpg](./image-9.jpg)
+
+![image-10.jpg](./image-10.jpg)
+
+![image-11.jpg](./image-11.jpg)
+
+![image-12.jpg](./image-12.jpg)
+
+### 一
+### 我要不住赞美称颂神，因祂活在我里，祂是我的一切，不断供应生命。我要不住赞美称颂神，因祂活在我里，与我永不分离。
+### 今在灵里我能享受基督作我的一切呼求祂名祂就成了我实际。敞开你口就能尝到主是何等的丰富，祂是奇妙全备生命的供应。
+### 二
+### 现今我因生命树而活，其美果喂养我，其生命刚强我，我要永远活着。现今我因生命树而活，我天天取用祂，祂是我生命粮。
+### 今在灵里我能享受基督作我的一切呼求祂名祂就成了我实际。敞开你口就能尝到主是何等的丰富，祂是奇妙全备生命的供应。
+### 三
+### 在我里面有生命水流，时刻都在涌流，处处都要流通，把我全人浸透。在我里面有生命水流，祂是生命泉源，一直涌到永生。
+### 今在灵里我能享受基督作我的一切呼求祂名祂就成了我实际。敞开你口就能尝到主是何等的丰富，祂是奇妙全备生命的供应。
+

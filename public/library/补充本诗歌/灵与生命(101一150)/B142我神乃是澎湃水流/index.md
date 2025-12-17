@@ -1,0 +1,33 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-8.jpg](./image-8.jpg)
+
+![image-9.jpg](./image-9.jpg)
+
+![image-10.jpg](./image-10.jpg)
+
+![image-11.jpg](./image-11.jpg)
+
+### 一
+### 我神乃是澎湃水流，历世历代涌流不休；种种过程祂已尽历，为要流进卑微人里。 独一不变活神，为要作人永分，祂竟亲临人间，历经多方变迁，现今涌流我们里面！
+### 二
+### 在那起初乐园之中，神已流出，满带丰盛；祂是水河，又是果树，分赐生命，作人永福。这河涌流不息，直至永世无已；神在羔羊里流，树果供应丰厚，神圣分赐无尽、悠久！
+### 三
+### 看哪，那人耶稣基督，是神流出，与人同处；为人舍命，成功救赎，为将神圣生命释出。撒但诡计多端，要将水流阻断；岂知祂钉十架，兵丁扎祂肋下，不过引出血、水无价！
+### 四
+### 哦，血与水从祂而出，救恩泉源涌流不住；宝血洗罪永远有能，生命之水使人重生。如今那灵流通─是神流入人中；仇敌伎俩依旧，不过助长水流，我神涌流无止、无休！
+

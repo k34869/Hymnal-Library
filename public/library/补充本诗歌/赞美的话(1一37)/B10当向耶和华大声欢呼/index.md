@@ -1,0 +1,25 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-8.jpg](./image-8.jpg)
+
+![image-9.jpg](./image-9.jpg)
+
+![image-10.jpg](./image-10.jpg)
+
+### 一
+### 普天之下当向耶和华大声喧嚷欢呼！应当乐意事奉耶和华，当来向祂歌颂。你们当晓得祂是神，我们乃是祂造的，也是属祂的；我们是祂民，也是祂草场的羊。应当称谢进入祂的门，赞美进入祂的院。应当同声感谢耶和华，称颂祂的名。因祂本为善；祂的慈爱是存到永远，祂的信实向我们一直到万代。
+

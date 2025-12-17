@@ -1,0 +1,39 @@
+### 诗歌展览
+
+<video src="./video-1.mp4" controls controlsList="nodownload"></video>
+
+mp3
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节清唱
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-9.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-11.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+## 一
+## 哦主耶稣，每想到你，我心便觉甘甜；深愿我能立刻被提，到你可爱身边！
+## 主，你如一棵美丽凤仙，显在山野葡萄园间，殊姿超群、秀色独艳，我心依依恋恋。
+## 二
+## 世上并无一个妙音，能把你恩尽唱；人间也无一颗情心，能把你爱全享。
+## 主，你如一棵美丽凤仙，显在山野葡萄园间，殊姿超群、秀色独艳，我心依依恋恋。
+## 三
+## 但那最使我心欢喜，尚非你爱、你恩；乃是你的可爱自己，最满我情、我心。
+## 主，你如一棵美丽凤仙，显在山野葡萄园间，殊姿超群、秀色独艳，我心依依恋恋。
+## 四
+## 你比美者还要更美，你比甜者更甜；你外，在天我心何归？在地我心何恋？
+## 主，你如一棵美丽凤仙，显在山野葡萄园间，殊姿超群、秀色独艳，我心依依恋恋。
+
+
+

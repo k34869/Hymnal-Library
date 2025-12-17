@@ -1,0 +1,37 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节清唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-9.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-11.jpg](./image-11.jpg)
+
+![image-12.jpg](./image-12.jpg)
+
+![image-13.jpg](./image-13.jpg)
+
+![image-14.jpg](./image-14.jpg)
+
+## 一
+## 我以信心仰望你在十字架上，我的救主！求你听我祷告，将我罪过宽饶，使我从今到老，全属救主。
+## 二
+## 主，赐能力恩惠，在这软弱心内，热情鼓舞！你既为我流血，我要爱你深切、真挚、长久、纯洁，如火如荼。
+## 三
+## 我今行走世路，不时遇见忧苦；求你引领！擦干我的眼泪，保守我不懊悔，拯救我不犯罪，而随你行。
+## 四
+## 人生短梦一过，死河要起寒波，将我淹没；那时求主恩惠，除我疑惑、惊畏，赐我盼望、安慰，安然度过。
+

@@ -3,7 +3,7 @@ import { snackbar } from "mdui/functions/snackbar.js";
 
 export async function getFile(path) {
   const promise = CapacitorHttp.post({
-    url: `https://na8pp3fe.cn-nb1.rainapp.top/api/fs/get`,
+    url: `http://114.66.61.131:6042/api/fs/get`,
     headers: {
       accept: "application/json, text/plain, */*",
       "content-type": "application/json",
@@ -22,35 +22,20 @@ export async function getFile(path) {
   return promise;
 }
 
-async function requestResource(path, type) {
-  return getFile(path)
-    .then(({ data }) => {
-      return CapacitorHttp.get({
-        url: data.data.raw_url,
-      });
-    })
-    .then(({ data }) => {
-      if (type === "json") {
-        return JSON.parse(data);
-      } else {
-        return data;
-      }
-    });
-}
-
 export async function getFsList(path) {
-  return requestResource(
-    `/hymnal-library/${path ? path + "/" : ""}map.json`,
-    "json"
+  return fetch(`/library/${path ? path + "/" : ""}map.json`).then((res) =>
+    res.json()
   );
 }
 
 export async function getMarkdown(path) {
-  return requestResource(`/hymnal-library/${path ? path + "/" : ""}index.md`);
+  return fetch(`/library/${path ? path + "/" : ""}index.md`).then((res) =>
+    res.text()
+  );
 }
 
 export async function getDatabase() {
-  return requestResource(`/hymnal-library/db.json`, "json");
+  return fetch(`/library/db.json`).then((res) => res.json());
 }
 
 export function filterMark(string) {

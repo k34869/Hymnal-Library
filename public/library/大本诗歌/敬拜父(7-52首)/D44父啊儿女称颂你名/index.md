@@ -1,0 +1,43 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节清唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-9.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-10.jpg](./image-10.jpg)
+
+![image-11.jpg](./image-11.jpg)
+
+![image-12.jpg](./image-12.jpg)
+
+![image-13.jpg](./image-13.jpg)
+
+## 一
+## 父阿，儿女称颂你名，是受恩典的教训；我们欢乐，因你生命，已使我们归羊群。
+## 二
+## 你所给的得救证实，远超我们的赞美；我们的心现在直指，你在天上的座位。
+## 三
+## 因在那里，祂作我们，永远不变的寄托。你将生命分给罪人，祂为罪人谋解脱。
+## 四
+## 永世虽久，不过就是：显明你恩的丰富，好叫那些因你儿子，为儿女者，来称祝。
+## 五
+## 我们现虽未见早晨，却仍安心历世途，等候祂来提接我们，脱离死亡和坟墓。
+## 六
+## 我们欢乐，因你自己，就是我们的“永分，”像你儿子！同祂一起！享受光明的早晨！
+## 七
+## 哦，求圣父因祂慈名，保守我们在这里，无忧无虑，随祂而行，直到同乐在那地。
+

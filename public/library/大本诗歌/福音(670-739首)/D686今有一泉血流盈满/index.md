@@ -1,0 +1,31 @@
+mp3
+
+<audio src="./audio-1.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+教唱
+
+<audio src="./audio-3.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节清唱
+
+<audio src="./audio-5.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-7.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+伴奏
+
+<audio src="./audio-9.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+### 一_
+### 今有一泉，血流盈满，涌自耶稣肋边；罪人只要一投此泉，立去全身罪愆。立去全身罪愆，立去全身罪愆，罪人只要一投此泉，立去全身罪愆。
+### 二
+### 当日与主同钉一盗，曾见此泉功效；我罪即使不比他少，在此必能除掉。在此必能除掉，在此必能除掉，我罪即使不比他少，在此必能除掉。
+### 三
+### 被杀羔羊，你的宝血，权能永不消灭，要将选民都洗清洁，永远与罪隔绝。永远与罪隔绝，永远与罪隔绝，要将选民都洗清洁，永远与罪隔绝。
+### 四
+### 自从我见此泉之开，乃因你身受害，我便颂扬救赎大爱，颂扬至死不迨。颂扬至死不迨，颂扬至死不迨，我便颂扬救赎大爱，颂扬至死不迨。
+### 五
+### 等到离世，拙口闭封，笨舌墓中寂静，我要发出复活歌声，赞你救赎大能。赞你救赎大能，赞你救赎大能，我要发出复活歌声，赞你救赎大能。
+

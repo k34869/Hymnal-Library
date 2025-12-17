@@ -1,0 +1,15 @@
+<audio src="./audio-0.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+第一节谱词领唱
+
+<audio src="./audio-2.mp3" controls preload="none" controlsList="nodownload"></audio>
+
+![image-3.jpg](./image-3.jpg)
+
+![image-4.jpg](./image-4.jpg)
+
+### 一
+### 老宗教敬拜和虚名，仪文和其他活动。作法、规则、无数教条，老基督教的光景！如今看见主的旨意，在地方召会彰显，合一立场我们聚集，现今我们都活了。我们都活了！我们都活了！宗教观念全都丢弃，活的基督寻见了。
+### 二
+### 从前愿望是上天堂，天空中的“象牙塔”。虽然知道这是虚妄，我们仍是受蒙蔽。在召会立场上聚集，我们已寻到实际，神的国度就是基督，今天显在召会中。显在召会中！显在召会中！父神旨意不再落空，完全显在召会中。
+
