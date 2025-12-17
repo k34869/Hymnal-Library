@@ -56,10 +56,14 @@ watch(() => route.name, (value) => {
 
 // 安卓设备输入法弹出布局适配
 let originHeight = document.documentElement.clientHeight || document.body.clientHeight;
+let orientation = window.matchMedia("(orientation: landscape)").matches
 window.addEventListener('resize', () => {
   const resizeHeight = document.documentElement.clientHeight || document.body.clientHeight;
   // 屏幕方向改变时不判断
-  if (window.matchMedia("(orientation: landscape)").matches) return;
+  if (window.matchMedia("(orientation: landscape)").matches !== orientation) {
+    orientation = window.matchMedia("(orientation: landscape)").matches
+    return
+  };
   if (originHeight <= resizeHeight) {
     // Android 键盘收起后操作
     isHideBottomBar.value = false
@@ -141,7 +145,8 @@ window.addEventListener('resize', () => {
 
     .container {
       main {
-        height: calc(100vh - (var(--safe-area-inset-bottom) + var(--safe-area-inset-top)));
+        height: 100vh;
+        padding-bottom: var(--safe-area-inset-bottom);
       }
     }
   }
